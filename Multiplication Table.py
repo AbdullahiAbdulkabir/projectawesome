@@ -3,7 +3,7 @@ print("Multipication Table")
 #A while loop statement that allows the user to input the desire multiplication length
 while True:
     try:
-        print("x to exit \n")
+        print("x to exit\n")
         user_input = input("Enter the Multipication Table length: ")
         q = int(user_input) + 1
         z = 1
