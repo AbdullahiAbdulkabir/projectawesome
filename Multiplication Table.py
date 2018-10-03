@@ -14,7 +14,7 @@ while True:
             for a in range (1,q):
                 print (i,"x",a,"=",i*a)
 #A bar that separates the different tables                
-            print("_____________________________")
+            print("_______________________________")
 #A break statement that allows the user to end the process on choice using letter 'x'
     except:
         if user_input == "x":
